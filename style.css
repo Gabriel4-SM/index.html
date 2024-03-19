@@ -1,0 +1,124 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    background-color: #007bff;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+h2 {
+    color: #007bff;
+}
+
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Reset de estilos */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* Estilos do cabeçalho */
+header {
+    background-color: #ff00bf;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* Estilos do conteúdo principal */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+h2 {
+    color: #ff00bf;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+p {
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Estilos para links */
+a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0056b3;
+}
